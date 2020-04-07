@@ -1,0 +1,20 @@
+{
+  "name": "beowulf",
+  "version": "1.0.0",
+  "description": "Create your own Epic Saga documenting your achievements",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AncientSwordRage/beowulf.git"
+  },
+  "keywords": [
+    "cv"
+  ],
+  "bugs": {
+    "url": "https://github.com/AncientSwordRage/beowulf/issues"
+  },
+  "homepage": "https://github.com/AncientSwordRage/beowulf#readme"
+}
